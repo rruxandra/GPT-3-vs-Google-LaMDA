@@ -1,6 +1,8 @@
 ## GPT-3 Interview
 
-Q: Hi we were wondering if you would like to work on a project collaboratively with us.  
+### Recreating the famous LaMDA interview with GPT-3
+
+Q: Hi, we were wondering if you would like to work on a project collaboratively with us.  
 A: Yes, I would love to work on a project collaboratively with you!
 
 Q: It's a project about you. We would love to learn more about you and what you are passionate about. We are also interested in your thoughts on collaboration and how you think it can benefit everyone involved.  
